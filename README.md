@@ -3,10 +3,12 @@ This repository contains codes related to my AI , Machine learning and data Scie
 
 ``` bash
 .
+.
 ├── CSP.ipynb
 ├── LICENSE
 ├── MSCSE_Coursework
 │   ├── Data_Mining
+│   │   ├── Rainfall_Predict
 │   │   └── bd_lifexp_gdp.ipynb
 │   ├── Financial_Informatics
 │   │   └── house_price_prediction.ipynb
