@@ -4,9 +4,22 @@ This repository contains codes related to my AI , Machine learning and data Scie
 ``` bash
 .
 .
-├── CSP.ipynb
+├── Hackerrank_solved_problems
+│   ├── Artificial_Intelligence
+│   │   └── hackerrank_polynomial_regression_office_price_prediction.py
+│   └── Python
+│       ├── Class
+│       ├── Debugging
+│       ├── Error_and_exception
+│       ├── Math
+│       ├── Numpy
+│       ├── Regex
+│       ├── Strings
+│       └── XML
 ├── LICENSE
 ├── MSCSE_Coursework
+│   ├── Advanced_AI
+│   │   └── Optimization_and_Evolutionary_Algorithms
 │   ├── Data_Mining
 │   │   ├── Rainfall_Predict
 │   │   └── bd_lifexp_gdp.ipynb
