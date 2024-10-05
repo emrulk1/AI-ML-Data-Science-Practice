@@ -3,7 +3,6 @@ This repository contains codes related to my AI , Machine learning and data Scie
 
 ``` bash
 .
-.
 ├── Hackerrank_solved_problems
 │   ├── Artificial_Intelligence
 │   │   └── hackerrank_polynomial_regression_office_price_prediction.py
@@ -27,5 +26,7 @@ This repository contains codes related to my AI , Machine learning and data Scie
 │   │   └── house_price_prediction.ipynb
 │   └── Machine_Learning
 │       └── StackOverflow_Question_Tag_classification.ipynb
+├── Natural_Language_Processing
+│   └── nlp_libraries.ipynb
 └── README.md
 ```
