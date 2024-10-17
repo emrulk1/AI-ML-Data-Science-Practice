@@ -16,6 +16,22 @@ This repository contains codes related to my AI , Machine learning and data Scie
 │       ├── Strings
 │       └── XML
 ├── LICENSE
+├── ML_practice
+│   ├── README.md
+│   ├── Supervised_Learning
+│   │   ├── 01_Linear_Regression
+│   │   ├── 02_Logistic_Regression
+│   │   ├── 03_K_Nearest_Neighbour
+│   │   ├── 04_Naive_Bayes
+│   │   ├── 05_Support_Vector_Machine
+│   │   ├── 06_Decison_Tree
+│   │   ├── 07_Ensemble_Methods
+│   │   └── data
+│   └── Unsupervised_Learning
+│       ├── 01_Clustering
+│       ├── 02_Dimensionality_Reduction
+│       ├── 03_Anomaly_Detection
+│       └── data
 ├── MSCSE_Coursework
 │   ├── Advanced_AI
 │   │   └── Optimization_and_Evolutionary_Algorithms
