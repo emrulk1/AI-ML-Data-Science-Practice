@@ -43,6 +43,7 @@ This repository contains codes related to my AI , Machine learning and data Scie
 │   └── Machine_Learning
 │       └── StackOverflow_Question_Tag_classification.ipynb
 ├── Natural_Language_Processing
+│   ├── LSTM_text_generation_using_Adele_dataset.ipynb
 │   └── nlp_libraries.ipynb
 └── README.md
 ```
