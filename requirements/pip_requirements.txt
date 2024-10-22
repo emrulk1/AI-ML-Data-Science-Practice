@@ -1,0 +1,7 @@
+pandas
+matplotlib
+seaborn
+nltk
+scikit-learn==1.1
+xgboost
+kaggle

@@ -1,0 +1,4 @@
+ipykernel
+pydot
+pydotplus
+graphviz
