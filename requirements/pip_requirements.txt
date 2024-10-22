@@ -4,4 +4,6 @@ seaborn
 nltk
 scikit-learn==1.1
 xgboost
-kaggle
+Kaggle
+tensorflow 
+requests
