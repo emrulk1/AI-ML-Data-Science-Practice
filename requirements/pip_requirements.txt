@@ -7,3 +7,10 @@ xgboost
 kaggle
 tensorflow 
 requests
+datasets
+sentence-transformers
+umap-learn
+hdbscan 
+keybert
+plotly
+kaleido
