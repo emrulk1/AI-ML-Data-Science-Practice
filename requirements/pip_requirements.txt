@@ -14,3 +14,10 @@ hdbscan
 keybert
 plotly
 kaleido
+genism
+sqlite3-bro
+scikit-multilearn
+einops
+sentencepiece
+tokenizers
+transformers
